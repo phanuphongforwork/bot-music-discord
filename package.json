@@ -1,0 +1,19 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "bot music beta discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phanuphongforwork/bot-music-discord.git"
+  },
+  "author": "phanuphong machai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phanuphongforwork/bot-music-discord/issues"
+  },
+  "homepage": "https://github.com/phanuphongforwork/bot-music-discord#readme"
+}
