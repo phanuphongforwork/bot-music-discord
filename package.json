@@ -4,6 +4,7 @@
   "description": "bot music beta discord",
   "main": "index.js",
   "scripts": {
+    "dev": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/phanuphongforwork/bot-music-discord/issues"
   },
-  "homepage": "https://github.com/phanuphongforwork/bot-music-discord#readme"
+  "homepage": "https://github.com/phanuphongforwork/bot-music-discord#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "youtube-node": "^1.3.3",
+    "yt-mix-playlist": "^0.1.2-b.2",
+    "ytdl-core": "^4.11.2"
+  }
 }
